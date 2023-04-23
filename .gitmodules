@@ -1,0 +1,3 @@
+[submodule "deps/fzy"]
+	path = deps/fzy
+	url = git@github.com:jhawthorn/fzy.git
